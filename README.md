@@ -19,6 +19,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 [DOSBox](https://www.dosbox.com/)|DOSBox is a DOS-emulator that uses the SDL-library|0.74|CPU 286/386 realmode/protected mode|Windows, BeOS, Linux, MacOS X|C++||[Source](http://source.dosbox.com/dosboxsvn.tgz)|
+[Fake86](https://sourceforge.net/projects/fake86/)|It is a portable, open-source 8086/80186 PC emulator|0.13.9.16|IBM PC/XT, Intel 80186|Cross platform|C|GNU GPLv2|[Sourceforge](https://sourceforge.net/p/fake86/code/ci/master/tree/)|
 
 
 ## Home Computer
