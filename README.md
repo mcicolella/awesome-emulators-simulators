@@ -19,7 +19,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 [DOSBox](https://www.dosbox.com/)|DOSBox is a DOS-emulator that uses the SDL-library|0.74|CPU 286/386 realmode/protected mode|Windows, BeOS, Linux, MacOS X|C++||[Source](http://source.dosbox.com/dosboxsvn.tgz)|
-[Fake86](https://sourceforge.net/projects/fake86/)|It is a portable, open-source 8086/80186 PC emulator|0.13.9.16|IBM PC/XT, Intel 80186|Cross platform|C|GNU GPLv2|[Sourceforge](https://sourceforge.net/p/fake86/code/ci/master/tree/)|
+[Fake86](https://sourceforge.net/projects/fake86/)|It is a portable, open-source 8086/80186 PC emulator|0.13.9.16|IBM PC/XT, Intel 80186|Cross platform|C|GNU GPLv2|[Sourceforge](https://sourceforge.net/p/fake86/code/ci/master/tree/)
 
 
 ## Home Computer
@@ -28,7 +28,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 [Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php)|The Altair 8800 simulator is part of the SIMH family of simulators currently at version 3.8-1|
 [Apple II](https://github.com/AppleWin/AppleWin/)|Apple II emulator|1.25.04 |Apple II | Windows|C++|GNU GPL
-[VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers| |Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2
+[VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers| |Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|
+[WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
 
 
 ## Mainframe
