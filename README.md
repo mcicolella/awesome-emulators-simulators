@@ -55,8 +55,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|
 
 ## Resources
-[Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
-[Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
+* [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
+* [Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
 
 ## License
 
