@@ -56,7 +56,9 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 ## Resources
 [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
+[Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
