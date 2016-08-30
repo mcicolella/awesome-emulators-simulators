@@ -26,7 +26,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
-[Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php)|The Altair 8800 simulator is part of the SIMH family of simulators currently at version 3.8-1|
+[Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php)|It is part of the SIMH family of simulators|3.8.1||Cross-platform|C||[Source](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/zip/altairz80source.zip)
 [Apple II](https://github.com/AppleWin/AppleWin/)|Apple II emulator|1.25.04 |Apple II | Windows|C++|GNU GPL
 [VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers| |Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|
 [WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
