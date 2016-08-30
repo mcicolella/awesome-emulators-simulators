@@ -52,7 +52,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
-[Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|
+[Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|||Web browser|PHP|N/A|N/A
 
 ## Resources
 * [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
