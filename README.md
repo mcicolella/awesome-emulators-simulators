@@ -60,6 +60,9 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## Resources
 * [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
 * [Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
+* [Programma 101 Quick Guide](http://www.marcogaleotti.com/download/programma101%20quick%20guide%20english.pdf)
+* [Programma 101 User Guide](http://www.marcogaleotti.com/download/programma101%20manual%20english.pdf)
+* [A huge collection of Programma 101 programs](http://www.marcogaleotti.com/download/Biblioteca%20programmi%20-%20Programma%20101%20-%20Volume%201%20(Olivetti).pdf)
 
 ## License
 
