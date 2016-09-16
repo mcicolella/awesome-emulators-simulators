@@ -57,6 +57,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 [Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|||Web browser|PHP|N/A|N/A
 [Sense HAT](https://trinket.io/sense-hat)|Raspberry Pi Sense HAT emulator to program in Python|||Web browser||N/A|N/A
+[Sense HAT](https://github.com/waveform80/python-sense-hat)|Raspberry Pi Sense HAT emulator based on Sense HAT Python library|2.1.0|Rpi Sensor HAT|Web browser|Python|BSD-3-Clause|[GitHub](https://github.com/waveform80/python-sense-hat)
 
 ## Resources
 * [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
