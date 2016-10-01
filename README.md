@@ -1,6 +1,6 @@
 # awesome-emulators
 
-> A curated list of awesome pc, home computer, mainframe and console software emulators.
+> A curated list of awesome pc, home computer, mainframe, console and robot software emulators.
 
 Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
 
@@ -11,6 +11,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Home Computer](#homecomputer)
 - [Mainframe](#mainframe)
 - [Console](#console)
+- [Robotics](#robotics)
 - [Various](#various)
 - [Resources](#resources)
 
@@ -50,6 +51,11 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [OpenEmu](http://http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.||Playstation 1, Game Boy Advance|Mac OS X||
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there||Playstation I, Game Boy Advance|Windows, Mac OS X, Linux, mobile devices||
+
+## Robotics
+
+|Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
+|-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 
 ## Various
 
