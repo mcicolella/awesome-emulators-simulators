@@ -8,6 +8,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## Contents
 
 - [PC](#pc)
+- [Mini Computer](#minicomputer)
 - [Home Computer](#homecomputer)
 - [Mainframe](#mainframe)
 - [Console](#console)
@@ -24,6 +25,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Programma 101](http://www.marcogaleotti.com/P101Simulator.html)|Olivetti Programma 101 simulator||Olivetti Programma 101|Windows|||N/A
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 
+## Mini Computer
 
 ## Home Computer
 
