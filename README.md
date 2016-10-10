@@ -26,6 +26,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 
 ## Mini Computer
+|Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
+|-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
 
 ## Home Computer
 
