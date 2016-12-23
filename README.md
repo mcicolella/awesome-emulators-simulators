@@ -60,6 +60,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
 |-----|------------|----------------|--------------------|--------------------------|----------|----|-----|
+[Gazebo](http://gazebosim.org/)|Gazebo simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects.|7.1.0|Custom|Ubuntu|C++|Apache 2.0|[Bitbucket](https://bitbucket.org/osrf/gazebo)|
 
 ## Various
 
