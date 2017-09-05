@@ -24,6 +24,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Fake86](https://sourceforge.net/projects/fake86/)|It is a portable, open-source 8086/80186 PC emulator|0.13.9.16|IBM PC/XT, Intel 80186|Cross platform|C|GNU GPLv2|[Sourceforge](https://sourceforge.net/p/fake86/code/ci/master/tree/)
 [Programma 101](http://www.marcogaleotti.com/P101Simulator.html)|Olivetti Programma 101 simulator||Olivetti Programma 101|Windows|||N/A
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
+[Programma 101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
 
 ## Mini Computer
 |Name      |Description | Latest version | Emulated system(s) | Running platform(s) | Written in| Licence |Source code|
