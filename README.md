@@ -1,4 +1,4 @@
-# awesome-emulators
+# awesome-emulators-simulators
 
 > A curated list of awesome pc, home computer, mainframe, console and robot software emulators.
 
