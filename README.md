@@ -1,6 +1,6 @@
 # awesome-emulators-simulators
 
-> A curated list of awesome pc, home computer, mainframe, console and robot software emulators.
+> A curated list of awesome pc, home computer, mainframe, console, robot software emulators and simulators.
 
 Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
 
