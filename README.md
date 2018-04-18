@@ -60,7 +60,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## Robotics
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
-[Gazebo](http://gazebosim.org/)|Gazebo simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects.|Simulator|7.1.0|Custom|Ubuntu|C++|Apache 2.0|[Bitbucket](https://bitbucket.org/osrf/gazebo)|
+[Gazebo](http://gazebosim.org/)|Gazebo simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects|Simulator|7.1.0|Custom|Ubuntu|C++|Apache 2.0|[Bitbucket](https://bitbucket.org/osrf/gazebo)|
+[Robocode](http://robocode.sourceforge.net/)|Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.|Simulator|1.9.3.2||All platforms|Java, .NET|Eclipse Public License v1.0|[GitHub](https://github.com/robo-code/robocode)|
 
 ## Various
 
