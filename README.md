@@ -2,7 +2,7 @@ Awesome Emulators & Simulators
 ==============================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome pc, home computer, mainframe, console, robot software emulators and simulators.
+> A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
 Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
 
