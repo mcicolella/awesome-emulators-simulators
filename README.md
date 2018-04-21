@@ -31,6 +31,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## MiniComputer
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
+|[PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html)|An emulator for the Digital Equipment PDP-8/E minicomputer|Emulator|2.0.2|PDP-8/E|PowerPC or Intel Mac with Mac OS X 10.4+||GNU GPL|[Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 
 ## HomeComputer
 
