@@ -14,6 +14,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Home Computer](#homecomputer)
 - [Mainframe](#mainframe)
 - [Console](#console)
+- [CPU](#cpu)  
 - [Robotics](#robotics)
 - [Various](#various)
 - [Resources](#resources)
@@ -59,6 +60,11 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
+
+## CPU
+
+|Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
+|----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
 
 ## Robotics
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
