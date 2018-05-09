@@ -65,6 +65,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 |Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
+[Intel 4004](http://e4004.szyc.org/)|Intel 4004 emulator with assembler e disassembler|Emulator||Intel 4004|All platforms|Javascript||
 
 ## Robotics
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
