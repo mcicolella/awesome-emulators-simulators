@@ -89,6 +89,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 * [Programma 101 Quick Guide](http://www.marcogaleotti.com/download/programma101%20quick%20guide%20english.pdf)
 * [Programma 101 User Guide](http://www.marcogaleotti.com/download/programma101%20manual%20english.pdf)
 * [A huge collection of Programma 101 programs](http://www.marcogaleotti.com/download/Biblioteca%20programmi%20-%20Programma%20101%20-%20Volume%201%20(Olivetti).pdf)
+* [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
 
 ## License
 
