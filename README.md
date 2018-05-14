@@ -25,6 +25,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [DOSBox](https://www.dosbox.com/)|DOSBox is a DOS-emulator that uses the SDL-library|Emulator|0.74|CPU 286/386 realmode/protected mode|Windows, BeOS, Linux, MacOS X|C++||[Source](http://source.dosbox.com/dosboxsvn.tgz)|
 [Fake86](https://sourceforge.net/projects/fake86/)|It is a portable, open-source 8086/80186 PC emulator|Emulator|0.13.9.16|IBM PC/XT, Intel 80186|Cross platform|C|GNU GPLv2|[Sourceforge](https://sourceforge.net/p/fake86/code/ci/master/tree/)
+[PCx86](https://www.pcjs.org/docs/pcx86/)|IBM PC and PC-compatible emulator|Emulator||A variety of XT and AT class machines, with processors ranging from the 8088 through the 80386|All platforms|Javascript|GNU GPLv3|[GitHub](https://github.com/jeffpar/pcjs)
 [Programma 101](http://www.marcogaleotti.com/P101Simulator.html)|Olivetti Programma 101 simulator|Simulator||Olivetti Programma 101|Windows|||N/A
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|Emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 [Programma 101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
