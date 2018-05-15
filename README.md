@@ -61,6 +61,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
 [OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
+[Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
 
 ## CPU
