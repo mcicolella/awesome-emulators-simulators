@@ -10,8 +10,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## Contents
 
 - [PC](#pc)
-- [Mini Computer](#minicomputer)
-- [Home Computer](#homecomputer)
+- [Mini Computer](#mini-computer)
+- [Home Computer](#home-computer)
 - [Mainframe](#mainframe)
 - [Console](#console)
 - [CPU](#cpu)  
@@ -31,12 +31,12 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|Emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 [p101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
 
-## MiniComputer
+## Mini Computer
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 |[PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html)|An emulator for the Digital Equipment PDP-8/E minicomputer|Emulator|2.0.2|PDP-8/E|PowerPC or Intel Mac with Mac OS X 10.4+||GNU GPL|[Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 
-## HomeComputer
+## Home Computer
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
