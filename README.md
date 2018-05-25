@@ -83,6 +83,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [Arm Mbed OS simulator](https://github.com/janjongboom/mbed-simulator)|Experimental simulator for Mbed OS 5 applications|Simulator||Mbed OS 5|All browsers|C++, Javascript||[GitHub](https://github.com/janjongboom/mbed-simulator)
+[Hue-Emulator](https://github.com/SteveyO/Hue-Emulator)|The Hue Emulator is a Bridge Emulator for the Philips Hue - Personal Wireless System|Emulator|0.8|Philips Hue bridge and light bulbs|All platforms|Java||[GitHub](https://github.com/SteveyO/Hue-Emulator)|
 
 ## Various
 
