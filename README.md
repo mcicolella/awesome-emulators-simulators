@@ -14,7 +14,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Home Computer](#home-computer)
 - [Mainframe](#mainframe)
 - [Console](#console)
-- [CPU](#cpu)  
+- [CPU](#cpu)
+- [Microcontrollers](#microcontrollers) 
 - [Robotics](#robotics)
 - [Internet of Things](#internet-of-things)  
 - [Various](#various)
@@ -72,6 +73,12 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [ARM-js](http://biged.github.io/arm-js/arm-js.html)|An ARM emulator|Emulator||ARMv7-A|Chrome, Firefox|Javascript||[GitHub](https://github.com/ozaki-r/arm-js)
 [Intel 4004](http://e4004.szyc.org/)|Intel 4004 emulator with assembler e disassembler|Emulator||Intel 4004|All platforms|Javascript||
 [Unicorn](https://www.unicorn-engine.org/)|Lightweight multi-platform, multi-architecture CPU emulator framework|Emulator|1.0.1|Arm, Arm64 (Armv8), M68K, Mips, Sparc, & X86 (include X86_64)|Windows, Mac OSX, Linux, BSD, Solaris|Pure C language with bindings for Crystal, Clojure, Visual Basic, Perl, Rust, Haskell, Ruby, Python, Java, Go, .NET, Delphi/Pascal & MSVC|GPL v2|[GitHub](https://github.com/unicorn-engine/unicorn) 
+
+## Microcontrollers
+
+|Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
+|----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
+
 
 ## Robotics
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
