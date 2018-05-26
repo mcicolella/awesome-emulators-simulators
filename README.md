@@ -54,7 +54,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [EDSAC](http://www.dcs.warwick.ac.uk/~edsac/)|EDSAC simulator|Simulator|7.0.2|EDSAC|Windows  XP+|||
 [Hercules](http://www.hercules-390.eu/)|An open source software implementation of the mainframe System/370 and ESA/390 architectures, in addition to the latest 64-bit z/Architecture||3.12|System/370, ESA/390, z/Architecture|Cross-platform||QPL|[GitHub](https://github.com/rbowler/spinhawk)|
-[z390 ASM](http://www.z390.org/)|The z390 portable mainframe macro assembler and emulator project|Emulator|1.5.06||Windows, Linux|Java|
+[z390 ASM](http://www.z390.org/)|The z390 portable mainframe macro assembler and emulator project|Emulator|1.5.06||Windows, Linux|Java|||
 
 ## Console
 
@@ -76,8 +76,9 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 ## Microcontrollers
 
-|Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
-|----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
+|Name|Description|Category|Latest version|Emulated Micro(s)|Running platform(s)|Written in|Licence|Source code|
+|----|-----------|--------|--------------|-----------------|-------------------|----------|-------|-----------|
+|[simavr](https://github.com/buserror/simavr)|A lean and mean Atmel AVR simulator|Simulator||Different type of ATMega and ATTIny|Linux, Mac OSX|C|GNU GPL|[GitHub](https://github.com/buserror/simavr)
 
 
 ## Robotics
