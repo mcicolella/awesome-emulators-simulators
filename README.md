@@ -100,6 +100,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|Emulator|||Web browser|PHP|N/A|N/A
 [Sense HAT](https://trinket.io/sense-hat)|Raspberry Pi Sense HAT emulator to program in Python|Emulator|||Web browser||N/A|N/A
 [Sense HAT](https://github.com/waveform80/python-sense-hat)|Raspberry Pi Sense HAT emulator based on Sense HAT Python library|Emulator|2.1.0|Rpi Sensor HAT|Web browser|Python|BSD-3-Clause|[GitHub](https://github.com/waveform80/python-sense-hat)
+[Traffic Simulator](https://github.com/movsim/traffic-simulation-de)|Traffic simulator|Simulator|||All browsers|HTML5|GPL v3|[GitHub](https://github.com/movsim/traffic-simulation-de)
 
 ## Resources
 * [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
