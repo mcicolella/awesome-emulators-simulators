@@ -100,6 +100,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [Cardpunch](http://www.kloth.net/services/cardpunch.php)|Cardpunch emulator to create a PNG or JPEG image of a punched card|Emulator|||Web browser|PHP|N/A|N/A
+[MovSim](http://www.movsim.org)|Multi-model open-source vehicular-traffic simulator|Simulator|1.6.0||All platforms|Java|GPL v3|[GitHub](https://github.com/movsim/movsim)
 [Traffic Simulator](https://github.com/movsim/traffic-simulation-de)|Traffic simulator|Simulator|||All browsers|HTML5|GPL v3|[GitHub](https://github.com/movsim/traffic-simulation-de)
 
 ## Resources
