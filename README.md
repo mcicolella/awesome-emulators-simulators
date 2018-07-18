@@ -18,6 +18,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Microcontrollers](#microcontrollers) 
 - [Robotics](#robotics)
 - [Internet of Things](#internet-of-things)  
+- [Networks](#networks)
 - [Various](#various)
 - [Resources](#resources)
 
@@ -94,6 +95,10 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Hue-Emulator](https://github.com/SteveyO/Hue-Emulator)|The Hue Emulator is a Bridge Emulator for the Philips Hue - Personal Wireless System|Emulator|0.8|Philips Hue bridge and light bulbs|All platforms|Java||[GitHub](https://github.com/SteveyO/Hue-Emulator)|
 [Sense HAT](https://trinket.io/sense-hat)|Raspberry Pi Sense HAT emulator to program in Python|Emulator|||Web browser||N/A|N/A
 [Sense HAT](https://github.com/waveform80/python-sense-hat)|Raspberry Pi Sense HAT emulator based on Sense HAT Python library|Emulator|2.1.0|Rpi Sensor HAT|Web browser|Python|BSD-3-Clause|[GitHub](https://github.com/waveform80/python-sense-hat)
+
+## Networks
+|Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
+|----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 
 ## Various
 
