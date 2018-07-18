@@ -9,19 +9,19 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 ## Contents
 
-- [PC](#pc)
-- [Mini Computer](#mini-computer)
-- [Home Computer](#home-computer)
-- [Mainframe](#mainframe)
-- [Console](#console)
-- [CPU](#cpu)
+- [PCs](#pcs)
+- [Mini Computers](#mini-computers)
+- [Home Computers](#home-computers)
+- [Mainframes](#mainframes)
+- [Consoles](#console)
+- [CPUs](#cpu)
 - [Microcontrollers](#microcontrollers) 
 - [Robotics](#robotics)
 - [Internet of Things](#internet-of-things)  
 - [Various](#various)
 - [Resources](#resources)
 
-## PC
+## PCs
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
@@ -32,12 +32,12 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|Emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 [p101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
 
-## Mini Computer
+## Mini Computers
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 |[PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html)|An emulator for the Digital Equipment PDP-8/E minicomputer|Emulator|2.0.2|PDP-8/E|PowerPC or Intel Mac with Mac OS X 10.4+||GNU GPL|[Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 
-## Home Computer
+## Home Computers
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
@@ -48,7 +48,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator|Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
 
 
-## Mainframe
+## Mainframes
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
@@ -56,7 +56,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Hercules](http://www.hercules-390.eu/)|An open source software implementation of the mainframe System/370 and ESA/390 architectures, in addition to the latest 64-bit z/Architecture||3.12|System/370, ESA/390, z/Architecture|Cross-platform||QPL|[GitHub](https://github.com/rbowler/spinhawk)|
 [z390 ASM](http://www.z390.org/)|The z390 portable mainframe macro assembler and emulator project|Emulator|1.5.06||Windows, Linux|Java|||
 
-## Console
+## Consoles
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
@@ -66,7 +66,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
 
-## CPU
+## CPUs
 
 |Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
