@@ -46,7 +46,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Apple I](http://pom1.sourceforge.net/)|Apple I emulator|Emulator|1.0.0 |Apple I |Windows|Java|GNU GPL|[Sourceforge](https://sourceforge.net/p/pom1/code/HEAD/tree/trunk/)
 [Apple II](https://github.com/AppleWin/AppleWin/)|Apple II emulator|Emulator|1.25.04 |Apple II | Windows|C++|GNU GPL
 [VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers|Emulator|3.1|Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|[SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
-[WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator|Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
+[WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator|Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE) 
 
 
 ## Mainframes
