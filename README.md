@@ -103,6 +103,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 ## Networks
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
+[Cloonix](http://clownix.net/)|The Cloonix network simulator provides a relatively easy-to-use graphical user interface.|Simulator|[cloonix-v42-07](http://clownix.net/doc_stored/build-42-07/html/index.html)|Variety of pre-build filesystems using QEMU/KVM|Linux (Fedora, CentOS, openSUSE, Debian, etc)|C, Shell|AGPLv3|[GitHub](https://github.com/clownix/cloonix)
 
 ## Various
 
