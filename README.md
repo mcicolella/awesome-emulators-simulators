@@ -31,7 +31,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [PCx86](https://www.pcjs.org/docs/pcx86/)|IBM PC and PC-compatible emulator|Emulator||A variety of XT and AT class machines, with processors ranging from the 8088 through the 80386|All platforms|Javascript|GNU GPLv3|[GitHub](https://github.com/jeffpar/pcjs)
 [P101Simulator](http://www.marcogaleotti.com/P101Simulator.html)|Olivetti Programma 101 simulator|Simulator||Olivetti Programma 101|Windows|||N/A
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|Emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
-[p101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
+[P101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
 
 ## Mini Computers
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
