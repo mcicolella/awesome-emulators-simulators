@@ -116,6 +116,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Enigma Machine Emulator](http://enigma.louisedade.co.uk/)|Emulating Navy M3 and M4 Enigma Machines.|Emulator|||Web browser|Javascript|N/A|[Source code](http://enigma.louisedade.co.uk/jssource.html)
 [MovSim](http://www.movsim.org)|Multi-model open-source vehicular-traffic simulator|Simulator|1.6.0||All platforms|Java|GPL v3|[GitHub](https://github.com/movsim/movsim)
 [Traffic Simulator](http://www.traffic-simulation.de/)|Traffic simulator|Simulator|||All browsers|HTML5|GPL v3|[GitHub](https://github.com/movsim/traffic-simulation-de)
+[Turing Machine Simulator](http://morphett.info/turing/turing.html)|Turing machine simulator|Simulator|||All browsers|Javascript, Jquery||[GitHub]https://github.com/awmorp/jsturing)
 [Virtual Apollo Guidance Computer](http://www.ibiblio.org/apollo/)|Apollo Guidance Computer simulator|Simulator|||All platforms|C++|GPL|[GitHub](https://github.com/virtualagc/virtualagc)
 
 ## Resources
