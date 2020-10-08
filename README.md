@@ -48,7 +48,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php)|It is part of the SIMH family of simulators|Simulator|3.8.1||Cross-platform|C||[Source](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/zip/altairz80source.zip)
 [Apple I](http://pom1.sourceforge.net/)|Apple I emulator|Emulator|1.0.0 |Apple I |Windows|Java|GNU GPL|[Sourceforge](https://sourceforge.net/p/pom1/code/HEAD/tree/trunk/)
 [Apple II](https://github.com/AppleWin/AppleWin/)|Apple II emulator|Emulator|1.25.04 |Apple II | Windows|C++|GNU GPL
-[VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers|Emulator|3.1|Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|[SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
+[VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross-platform emulator for Commodore's 8-bit computers|Emulator|3.1|Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|[SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
 [WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator|Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
 
 
@@ -65,7 +65,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
-[OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
+[OpenEmu](http://openemu.org/)|Partially based on Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
 [Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
