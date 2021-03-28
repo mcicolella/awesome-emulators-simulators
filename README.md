@@ -4,8 +4,7 @@ Awesome Emulators & Simulators
 
 > A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
-Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
-
+**Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net) and subscribe my [YouTube channel](https://youtube.com/c/emmecilab)**.
 
 ## Contents
 
