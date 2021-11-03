@@ -119,6 +119,7 @@ Awesome Emulators & Simulators
 [Traffic Simulator](http://www.traffic-simulation.de/)|Traffic simulator|Simulator|||All browsers|HTML5|GPL v3|[GitHub](https://github.com/movsim/traffic-simulation-de)
 [Turing Machine Simulator](http://morphett.info/turing/turing.html)|Turing machine simulator|Simulator|||All browsers|Javascript, Jquery||[GitHub](https://github.com/awmorp/jsturing)
 [Universal Enigma Machine Simulator](https://summersidemakerspace.ca/projects/enigma-machine/)|Enigma machine simulator|Simulator|||Web browser|||
+[Web Enigma Machine Emulator](https://www.101computing.net/enigma-machine-emulator/)|A web emulator for M3 Enigma Machine.|Emulator|||Web browser|||
 [Enigma Machine Emulator](https://github.com/mirkoperillo/enigma)|A command line application to emulate the M3 Enigma machine.|Emulator|||All platforms|Go|CC0|[Github](https://github.com/mirkoperillo/enigma)
 [Virtual Apollo Guidance Computer](http://www.ibiblio.org/apollo/)|Apollo Guidance Computer simulator|Simulator|||All platforms|C++|GPL|[GitHub](https://github.com/virtualagc/virtualagc)
 
