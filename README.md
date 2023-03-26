@@ -39,6 +39,8 @@ Awesome Emulators & Simulators
 [P101Simulator](http://www.marcogaleotti.com/P101Simulator.html)|Olivetti Programma 101 simulator|Simulator||Olivetti Programma 101|Windows|||N/A
 [Programma 101](http://web.tiscali.it/claudiolarini/emul2.htm)|Olivetti Programma 101 emulator|Emulator|2008.07.23|Olivetti Programma 101|Windows|Quick Basic||N/A
 [P101](http://p101.unicas.it/p101/)|Olivetti Programma 101 simulator|Simulator|1.0|Olivetti Programma 101|Any browser|Javascript||N/A
+[XTulator](https://github.com/mikechambers84/XTulator)|x86 PC emulator up to Intel 80186|Emulator|0.20.7.15 pre-alpha|Intel 8086 and 80186|Cross platform|C||https://github.com/mikechambers84/XTulator
+
 
 ## Mini Computers
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
