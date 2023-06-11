@@ -72,7 +72,7 @@ Awesome Emulators & Simulators
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
-[Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
+[Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux, Android|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
 [OpenEmu](http://openemu.org/)|Partially based on Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
 [Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
